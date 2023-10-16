@@ -1,0 +1,60 @@
+body{
+  margin: 0;
+  font-family: cursive, math;
+}
+.intro {
+  height: 99vh;
+  background-image: url(./assets/pexels-luis-gomes-546819.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.intro h1{
+  font-size: 3rem;
+}
+.intro p{
+  color: rgb(187, 187, 187);
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+.aboutMe h1{
+  text-shadow: 4px 4px 2px #6d6d6d;
+  color: #21234a;
+  font-size: 3rem;
+  font-weight: 600;
+}
+.aboutMe p{
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+.skills{
+  background-color: #4b4b4b;
+}
+.progress{
+  height: 35px;
+  background-color: #4b4b4b;
+}
+.progress .progress_tag{
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #96918b;
+}
+ .progress_percent{
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #cac9c6;
+}
+.portfolio{
+  /* background-color: aliceblue; */
+  font-weight: 900;
+}
+.portoLink{
+  color: black;
+  text-decoration-line: none;
+}
+.footer{
+  font-size: .8em;
+}
