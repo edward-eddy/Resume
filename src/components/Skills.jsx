@@ -25,7 +25,7 @@ export default function Skills() {
                         <p>Responsive Web Applications</p>
                     </div>
                 </div>
-                <div className="d-flex flex-column col-md-6 col-10 px-5">
+                <div className="d-flex flex-column col-md-6 px-3">
                     <ProgressBar tag="HTML5" percent="80"/>
                     <ProgressBar tag="CSS3" percent="70"/>
                     <ProgressBar tag="Bootstrap" percent="80"/>

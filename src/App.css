@@ -30,7 +30,7 @@ body{
   background-color: #4b4b4b;
 }
 .progress{
-  height: 35px;
+  height: 15px;
   background-color: #4b4b4b;
 }
 .progress .progress_tag{
@@ -38,7 +38,8 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #96918b;
+  color: white;
+  /* background-color: #96918b; */
 }
  .progress_percent{
   height: 100%;
